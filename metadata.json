@@ -1,0 +1,6 @@
+{
+  "name": "Julius Robert von Mayer — Pionero de la Termodinámica",
+  "description": "Monografía y archivo interactivo dedicado a Julius Robert von Mayer (1814–1878), descubridor del principio de conservación de la energía y pionero del equivalente mecánico del calor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
